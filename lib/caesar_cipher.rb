@@ -17,7 +17,7 @@ end
 
 # Exemple d'utilisation : fii la utiliser  mbir yi
 plaintext = "Hello, World!"
-key = 3
+key = 6
 puts "Texte clair : #{plaintext}"
 puts "Clé de chiffrement : #{key}"
 encrypted_text = caesar_cipher(plaintext, key)
